@@ -46,5 +46,6 @@ Os meus codigos foram escritos utilizando a linguagem C e postgreSQL, para acess
 
 [1. INICIANTE](https://github.com/joaoguilmo/Problems-and-contests-URI/tree/master/1.INICIANTE)  
 [2. AD-HOC](https://github.com/joaoguilmo/Problems-and-contests-URI/tree/master/2.AD-HOC)  
+[3. STRING](https://github.com/joaoguilmo/Problems-and-contests-URI/tree/master/3.STRINGS)   
 [9. SQL](https://github.com/joaoguilmo/Problems-and-contests-URI/tree/master/9.SQL)
 
