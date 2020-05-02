@@ -27,7 +27,7 @@ main()
 							x[i][j]=x[i][j-1]+1;
 						}
 				}
-			// j é coluna e i é linha 	
+			// j é coluna e i é linha 	constroi a matriz apartir de cima para baixo da identidade
 			for(i=0;i<n;i++)
 				{
 					for(j=0;j<n;j++)
@@ -36,17 +36,7 @@ main()
 							x[i][j]=x[i-1][j]+1;
 						}
 				}
-		/*	for(i=0;i<n;i++)
-				{
-					for(j=0;j<n;j++)
-						{
-							if(j>i)
-							x[i][j]++;
-							else
-							x[i][j]=0;
-						}
-				}*/
-			// apresentação da matriz
+// apresenta  a matriz
 			for(j=0;j<n;j++)
 				{
 					for(i=0;i<n;i++)
